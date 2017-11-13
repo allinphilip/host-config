@@ -1,2 +1,2 @@
 # host-config
-HOST-CONFIG
+Content encrypt by AES-128-CBC
